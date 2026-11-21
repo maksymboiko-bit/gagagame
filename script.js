@@ -1,5 +1,5 @@
 console.clear();
-let c = [10,];
+let c = [74, 75, 24, 25, 26, 27, 82, 32, 22, 23, 72, 73, 77, 76, 94, 95, 93, 43, 44, 45, 46, 36, 96];
 let k = document.querySelector("span");
 let r = 0;
 let boxes = document.querySelectorAll(".box");
